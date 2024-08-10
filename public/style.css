@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    min-height: 100vh;
+    background-color:rgb(121, 173, 121);
+}
+#subdiv{
+    background-color: white;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+select{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: green !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+}
+button:hover{
+    border-radius: 25px;
+}
